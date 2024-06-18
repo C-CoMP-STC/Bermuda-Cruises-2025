@@ -15,6 +15,8 @@ This repo has been created to host planning resources for the upcoming C-CoMP cr
 - BIOS-SCOPE home webpage: https://scope.bios.asu.edu/
     - Publications: https://scope.bios.asu.edu/scientific-publications/
 - BIOS-SCOPE BCO-DMO Project webpage: https://www.bco-dmo.org/project/826178
+
+- BATS Google Scholar webpage: https://scholar.google.com/citations?hl=en&user=l1Qh9LgAAAAJ
  
 
 ## Publications
@@ -36,6 +38,8 @@ Blanco-Bercial, L., R. Parsons, L.M. Bolaños, R. Johnson, G. Giovannoni, R. Cur
 Liu, S., K. Longnecker, E. B. Kujawinski, K. Vergin, L. M. Bolaños, S. J. Giovannoni, R. Parsons, K. Opalk, E. Halewood, D. A. Hansell, R. Johnson, R. Curry and C. A. Carlson (2022). Linkages among dissolved organic matter export, dissolved metabolites, and associated microbial community structure response in the northwestern Sargasso Sea on a seasonal scale. Frontiers in Microbiology. http://doi.org/10.3389/fmicb.2022.833252. 
 
 Lomas, M. W., Bates, N. R., Buck, K. N., & Knap, A. H. (2011). Oceanography of the Sargasso Sea: Overview of Scientific Studies. Sargasso Sea Alliance Science Report Series, 64. https://d1wqtxts1xzle7.cloudfront.net/87342208/No5_Oceanography_HI-libre.pdf?1654945615=&response-content-disposition=inline%3B+filename%3DOceanography_of_the_Sargasso_Sea_Overvie.pdf&Expires=1718637387&Signature=TdjwDac7X059PZqKYAg4dQX91oOB-8kQMVSVGATLhrImPe8eaDr4bYnblmy556B5pIwps3bZh9maBsyhhBqDU0DuIVhEu-ssHSlsfYawGRW-uCRaVvYbwaK~2De8PGV5IglZVPCysyyMhbPkorC8RlQa11LM3LsRN~lxJCSmUmEzSOHslufGv2TGaSC4QV77Xvawgpb2vHbtGVIkMoiX18N4yUl-NPoYo494dZMPyib~jl37IZJD~~gbQhUMH90Ch0ibubym2Ath-km9PjKlg9VAEqUAkaZ8K-RALTuJazPEQZH~6LIWU12u5oB~Q~XhhcAvGCdmqxazcdt1kgFyNw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA. 
+
+Lomas, M. W., Bates, N. R., Johnson, R. J., Steinberg, D. K., & Tanioka, T. (2022). Adaptive carbon export response to warming in the Sargasso Sea. Nature Communications, 13(1), 1211. https://www.nature.com/articles/s41467-022-28842-3. 
 
 Longnecker, K., M. C. Kido Soule, G. J. Swarr, R. Parsons, S. Liu, W. M. Johnson, B. Widner, R. Curry, C. A. Carlson and E. B. Kujawinski (2024). Seasonal and daily patterns in known dissolved metabolites in the northwestern Sargasso Sea. Limnology and Oceanography. 69(3):449-466. https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.12497. 
 
