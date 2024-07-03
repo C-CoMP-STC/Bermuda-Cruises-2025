@@ -1,6 +1,13 @@
 # Bermuda-Cruises-2025
 This repo has been created to host planning resources for the upcoming C-CoMP cruises to Bermuda in 2025.
 
+# Overview map of relevant locations for the Cruises
+
+[Bermuda_WH_v1.pdf](https://github.com/user-attachments/files/16089370/Bermuda_WH_v1.pdf)
+
+[Bermuda_WH_Zoom_v2.pdf](https://github.com/user-attachments/files/16089373/Bermuda_WH_Zoom_v2.pdf)
+
+
 ## Web resources
 - Bermuda Atlantic Time-Series (BATS) home webpage: https://bats.bios.asu.edu/
     - History of the Bermuda Atlantic Time-Series Study: https://bats.bios.asu.edu/about/
