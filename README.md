@@ -2,8 +2,6 @@
 This repo has been created to host planning resources for the upcoming C-CoMP cruises to Bermuda in 2025.
 
 # Overview map of relevant locations for the Cruises
-
-![Bermuda_WH_v1](https://github.com/C-CoMP-STC/Bermuda-Cruises-2025/assets/107074556/2059f29c-cc4e-4491-8a72-e56386adeb6f)
 ![Bermuda_WH_Zoom_v2](https://github.com/C-CoMP-STC/Bermuda-Cruises-2025/assets/107074556/b4a960ac-ef82-43f5-a0a4-62c1dbe9dbd6)
 
 ## Web resources
