@@ -13,9 +13,65 @@ Vihtakari M (2024). ggOceanMaps: Plot Data on Oceanographic Maps using 'ggplot2'
 - Bermuda Atlantic Time-Series (BATS) home webpage: https://bats.bios.asu.edu/
     - History of the Bermuda Atlantic Time-Series Study: https://bats.bios.asu.edu/about/
     - Significant Findings: https://bats.bios.asu.edu/significant-findings/
-    - Core measurements and data access: https://bats.bios.asu.edu/data/
- 
+      
+    - Data Access:
+      - Core measurements and data access: https://bats.bios.asu.edu/data/
+      - Direct data access: https://bats.bios.asu.edu/bats-data/
+        
+          - Data listed here includes:
+            - CTD data (October 1988 - Dec. 2023)
+              - Pressure (dbar)
+              - Depth (m)
+              - Temperature (ITS-90, C)
+              - Conductivity (S/m)
+              - Salinity (PSS-78)
+              - Dissolved Oxygen (umol/kg)
+              - Beam Attenuation Coefficient (1/m)
+              - Fluorescence (relative fluorescence units)
+              - PAR(uE/m^2/s)
+
+            - Bottle data (BATS and validation cruises, October 1988 - June 2023)
+              - Pigments
+              - Dissolved Inorganic Carbon
+              - Alkalinity
+              - Nitrate + Nitrite (Parameter name is NO31 and NO3)
+              - Nitrite (Parameter name is NO21 and NO2)
+              - Phosphate (Parameter name is PO41 and PO4)
+              - Silicate (Parameter name is Si1 and Si)
+              - POC
+              - PON
+              - TOC
+              - DON/TN (Prior to BATS 121; DON is reported instead of TON)
+              - Bacteria enumeration
+              - POP
+              - TDP
+              - SRP
+              - BSi
+              - LSi
+              - Prochlorococcus (cells/ml)
+              - Synechococcus (cells/ml)
+              - Picoeukaryotes (cells/ml)
+              - Nanoeukaryotes (cells/ml)
+                
+            - Zooplankton biomass
+            - Sediment trap
+            - Primary production and bacterial production
+            - Event logs
+            - Sample logs
+            - Underway data
+            - Preliminary CTD data
+            - Preliminary plots
+
 - BATS BCO-DMO Project webpage: https://www.bco-dmo.org/project/2124
+          - Data listed here includes:
+            - BATS HPLC pigments
+            - BATS primary production
+            - BATS sediment trap particle flux
+            - BATS validation bottle data
+            - BATS validation pigments
+            - BATS zooplankton biomass
+            - CTD Profiles
+            - Niskin bottle samples ("Bottle data" as listed above on the BATS data access webpage)
 
 - R/V Atlantic Explorer Ship Operations home webpage: https://bios.asu.edu/ship-ops/
     - includes information about the vessel, safety and inclusivity resources, and forms
@@ -25,6 +81,9 @@ Vihtakari M (2024). ggOceanMaps: Plot Data on Oceanographic Maps using 'ggplot2'
 - BIOS-SCOPE BCO-DMO Project webpage: https://www.bco-dmo.org/project/826178
 
 - BATS Google Scholar webpage: https://scholar.google.com/citations?hl=en&user=l1Qh9LgAAAAJ
+
+- Oleander Project: https://oleander.bios.asu.edu/
+  - Data products include: ADCP Velocity, XBT, TSG, Oleander fluxes, Gulf Stream position
  
 
 ## Publications
