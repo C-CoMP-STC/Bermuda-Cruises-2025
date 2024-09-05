@@ -32,22 +32,27 @@ Vihtakari M (2024). ggOceanMaps: Plot Data on Oceanographic Maps using 'ggplot2'
 
             - Bottle data (BATS and validation cruises, October 1988 - June 2023)
               - Pigments
-              - Dissolved Inorganic Carbon
-              - Alkalinity
-              - Nitrate + Nitrite (Parameter name is NO31 and NO3)
-              - Nitrite (Parameter name is NO21 and NO2)
-              - Phosphate (Parameter name is PO41 and PO4)
-              - Silicate (Parameter name is Si1 and Si)
-              - POC
-              - PON
-              - TOC
-              - DON/TN (Prior to BATS 121; DON is reported instead of TON)
-              - Bacteria enumeration
-              - POP
-              - TDP
-              - SRP
-              - BSi
-              - LSi
+              - Salinity
+              - Sigma-Theta (kg/m3)
+              - Oxygen-1 (umol/kg)
+              - Oxygen Fix Temp (temp)
+              - Oxy Anomaly-1 (umol/kg)
+              - Dissolved Inorganic Carbon (umol/kg)
+              - Alkalinity (uneqiv)
+              - Nitrate + Nitrite (Parameter name is NO31 and NO3) (umol/kg)
+              - Nitrite (Parameter name is NO21 and NO2) (umol/kg)
+              - Phosphate (Parameter name is PO41 and PO4) (umol/kg)
+              - Silicate (Parameter name is Si1 and Si) (umol/kg)
+              - POC (ug/kg)
+              - PON (ug/kg)
+              - TOC (umol/kg)
+              - DON or TN (Prior to BATS 121; DON is reported instead of TON) (umol/kg)
+              - Bacteria enumeration (cells*10^8/kg)
+              - POP (umol/kg)
+              - TDP (nmol/kg)
+              - SRP (nmol/kg)
+              - BSi (umol/kg)
+              - LSi (umol/kg)
               - Prochlorococcus (cells/ml)
               - Synechococcus (cells/ml)
               - Picoeukaryotes (cells/ml)
