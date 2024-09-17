@@ -60,7 +60,7 @@ Vihtakari M (2024). ggOceanMaps: Plot Data on Oceanographic Maps using 'ggplot2'
                 
             - Zooplankton biomass
             - Sediment trap
-            - Primary production and bacterial production
+            - Primary production (14C, mgC/m^3/day) and bacterial production (3H-Thymidine-method)
             - Event logs
             - Sample logs
             - Underway data
