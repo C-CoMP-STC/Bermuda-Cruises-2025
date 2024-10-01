@@ -119,15 +119,15 @@ Maas, A. E., S. Liu, L. M. Bolaños, B. Widner, R. J. Parsons, E. B. Kujawinski,
 
 
 ## Question driven data curation 
-    --- Composition of DOC ---
+--- Composition of DOC ---
     - Dissolved organic matter molecular composition data. Larger molecules than FBA currently wants. https://doi.pangaea.de/10.1594/PANGAEA.962748 
 
     
-    --- Community composition ---
+--- Community composition ---
     
-    --- Rates: production, cue, ect. ---
+--- Rates: production, cue, ect. ---
     
-    --- Metagenomics --- 
+--- Metagenomics --- 
     
 
 
