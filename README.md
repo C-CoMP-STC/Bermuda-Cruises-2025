@@ -118,8 +118,10 @@ Longnecker, K., M. C. Kido Soule, G. J. Swarr, R. Parsons, S. Liu, W. M. Johnson
 Maas, A. E., S. Liu, L. M. Bolaños, B. Widner, R. J. Parsons, E. B. Kujawinski, L. B. Bercial and C. A. Carlson (2020). Migratory zooplankton excreta and its influences on prokaryotic communities. Frontiers in Marine Science. 7: 573268. https://doi.org/10.3389/fmicb.2022.833252. 
 
 
-### Question driven data curation 
+## Question driven data curation 
     --- Composition of DOC ---
+    - Dissolved organic matter molecular composition data. Larger molecules than FBA currently wants. https://doi.pangaea.de/10.1594/PANGAEA.962748 
+
     
     --- Community composition ---
     
