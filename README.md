@@ -107,6 +107,8 @@ Bates, N. R., & Johnson, R. J. (2023). Forty years of ocean acidification observ
 
 Blanco-Bercial, L., R. Parsons, L.M. Bolaños, R. Johnson, G. Giovannoni, R. Curry (2022) The protist community traces seasonality and mesoscale hydrographic features in the oligotrophic Sargasso Sea. Frontiers in Marine Sciences, 9:897140. https://doi.org/10.3389/fmars.2022.897140. 
 
+He, C., Fucich, D., Sosa, A., Wang, H., Kan, J., Liu, J., ... & Chen, F. (2024). Deep metagenomic sequencing unveils novel SAR202 lineages and their vertical adaptation in the ocean. Communications Biology, 7(1), 853. https://www.nature.com/articles/s42003-024-06535-5. 
+
 Liu, S., K. Longnecker, E. B. Kujawinski, K. Vergin, L. M. Bolaños, S. J. Giovannoni, R. Parsons, K. Opalk, E. Halewood, D. A. Hansell, R. Johnson, R. Curry and C. A. Carlson (2022). Linkages among dissolved organic matter export, dissolved metabolites, and associated microbial community structure response in the northwestern Sargasso Sea on a seasonal scale. Frontiers in Microbiology. http://doi.org/10.3389/fmicb.2022.833252. 
 
 Lomas, M. W., Bates, N. R., Buck, K. N., & Knap, A. H. (2011). Oceanography of the Sargasso Sea: Overview of Scientific Studies. Sargasso Sea Alliance Science Report Series, 64. https://d1wqtxts1xzle7.cloudfront.net/87342208/No5_Oceanography_HI-libre.pdf?1654945615=&response-content-disposition=inline%3B+filename%3DOceanography_of_the_Sargasso_Sea_Overvie.pdf&Expires=1718637387&Signature=TdjwDac7X059PZqKYAg4dQX91oOB-8kQMVSVGATLhrImPe8eaDr4bYnblmy556B5pIwps3bZh9maBsyhhBqDU0DuIVhEu-ssHSlsfYawGRW-uCRaVvYbwaK~2De8PGV5IglZVPCysyyMhbPkorC8RlQa11LM3LsRN~lxJCSmUmEzSOHslufGv2TGaSC4QV77Xvawgpb2vHbtGVIkMoiX18N4yUl-NPoYo494dZMPyib~jl37IZJD~~gbQhUMH90Ch0ibubym2Ath-km9PjKlg9VAEqUAkaZ8K-RALTuJazPEQZH~6LIWU12u5oB~Q~XhhcAvGCdmqxazcdt1kgFyNw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA. 
@@ -128,6 +130,7 @@ Maas, A. E., S. Liu, L. M. Bolaños, B. Widner, R. J. Parsons, E. B. Kujawinski,
 --- Rates: production, cue, ect. ---
     
 --- Metagenomics --- 
+- Deeply sequenced metagenomes from BATS (120 L samples, 180 Gb per sample). Reads should be at NCBI under BioProject but link doesn't work. Binned genomes are here: https://doi.org/10.6084/m9.figshare.25020137 (He et al. 2024)
     
 
 
