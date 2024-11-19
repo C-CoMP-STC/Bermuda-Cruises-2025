@@ -10,13 +10,12 @@ Map was created using ggOceanMaps R package.
 Vihtakari M (2024). ggOceanMaps: Plot Data on Oceanographic Maps using 'ggplot2'. R package version 2.2.0, https://mikkovihtakari.github.io/ggOceanMaps/.
 
 ## Web resources
-- Bermuda Atlantic Time-Series (BATS) home webpage: https://bats.bios.asu.edu/
-    - History of the Bermuda Atlantic Time-Series Study: https://bats.bios.asu.edu/about/
-    - Significant Findings: https://bats.bios.asu.edu/significant-findings/
+- Bermuda Atlantic Time-Series (BATS) home webpage: [https://bats.bios.asu.edu/](https://bios.asu.edu/bats)
+    - History of the Bermuda Atlantic Time-Series Study: [https://bats.bios.asu.edu/about/](https://bios.asu.edu/bats/about)
+    - Significant Findings: [https://bats.bios.asu.edu/significant-findings/](https://bios.asu.edu/bats/significant-findings)
       
     - Data Access:
-      - Core measurements and data access: https://bats.bios.asu.edu/data/
-      - Direct data access: https://bats.bios.asu.edu/bats-data/
+      - Core measurements and data access: [https://bats.bios.asu.edu/data/](https://bios.asu.edu/bats/bats-data)
         
           - Data listed here includes:
             - CTD data (October 1988 - Dec. 2023)
